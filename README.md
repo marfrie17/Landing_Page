@@ -6,8 +6,8 @@ ToDo:
 -file structure -> Done
 -basic HTML -> Done
 -link to CSS -> Done
--first commit
--all text into html (other elements than div?)
+-first commit -> Done
+-all text into html (other elements than div?) -> Done
 -color blocking in CSS
--look for images
--link the images
+-look for images -> Done
+-link the images -> Done
